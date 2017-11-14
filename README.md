@@ -6,4 +6,6 @@ Want to customize your Visual Studio Code icon? Do it now with these custom beau
 
 ![VS Code Clippy Dark](./vs-code-clippy-dark.iconset/icon_128x128.png)
 
+![VS Code Clippy Orange](./vs-code-clippy-orange.iconset/icon_128x128.png)
+
 Use an .iconset file for macOS, or an .ico file for Windows.
